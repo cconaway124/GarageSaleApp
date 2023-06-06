@@ -20,3 +20,9 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+#myMap {
+    position: relative;
+    width: 600px;
+    height: 400px;
+}
